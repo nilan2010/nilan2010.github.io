@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Digital CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer | Software Engineer | IT Specialist</p>
+        <p>Email: your.email@example.com | LinkedIn: linkedin.com/in/yourname | GitHub: github.com/yourusername</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I am a passionate and dedicated software developer with expertise in web development, coding, and problem-solving. I love learning new technologies and improving my skills.</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Science in IT</strong> - Your University (Year)</p>
+        <p><strong>Certifications:</strong> AWS Certified, Google IT Support, etc.</p>
+    </section>
+
+    <section class="experience">
+        <h2>Work Experience</h2>
+        <p><strong>Software Developer</strong> - ABC Tech Solutions (Year-Present)</p>
+        <ul>
+            <li>Developed responsive web applications using JavaScript and React.</li>
+            <li>Worked on API integrations and backend development.</li>
+        </ul>
+
+        <p><strong>Internship</strong> - XYZ Technologies (Year)</p>
+        <ul>
+            <li>Assisted in developing and testing mobile applications.</li>
+            <li>Worked on database management and security.</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript, React, Next.js</li>
+            <li>Node.js, Express.js, MongoDB</li>
+            <li>Git, GitHub, Agile Development</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <p><strong>Portfolio Website</strong> - <a href="https://yourwebsite.com">yourwebsite.com</a></p>
+        <p><strong>E-commerce Web App</strong> - A React and Node.js-based online shopping platform.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Your Name | Designed with ❤️</p>
+    </footer>
+
+</body>
+</html>
